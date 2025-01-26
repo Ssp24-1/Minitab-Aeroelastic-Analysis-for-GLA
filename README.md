@@ -10,5 +10,6 @@ Aeroelastic-Study-of-Leading-Edge-Minitabs/
 │   ├── Thesis-Summary.md       # Summary of the thesis
 │   ├── Thesis-Full.pdf         # Full thesis (if shareable)
 ├── Images/                     # Figures and visuals
+├── Simulation Data/            # CFD & FEA data from simulations
 ```
 
