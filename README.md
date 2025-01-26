@@ -1,0 +1,1 @@
+# Minitab-Aeroelastic-Analysis-for-GLA
