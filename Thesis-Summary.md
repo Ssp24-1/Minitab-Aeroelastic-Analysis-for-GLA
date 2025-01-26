@@ -14,32 +14,3 @@ Aeroelastic-Study-of-Leading-Edge-Minitabs/
 │   ├── structural_displacement.png # Example figure 2
 ```
 
-## Example: `Docs/Thesis-Summary.md`
-
-```markdown
-# Thesis Summary: Aeroelastic Study of Leading Edge Minitabs
-
-This document summarizes the results of the aeroelastic study conducted for leading-edge minitabs designed for gust load alleviation.
-
-## Key Results
-
-### 1. Lift Distribution
-The optimized configuration of the minitabs demonstrates a significant improvement in lift distribution. See the figure below:
-
-![Lift Distribution](../Images/lift_distribution.png)
-
----
-
-### 2. Structural Displacement
-The structural displacement due to gust loads is shown in the next figure. The configuration successfully reduces displacement magnitudes:
-
-![Structural Displacement](../Images/structural_displacement.png)
-
----
-
-For a detailed explanation, refer to the [full thesis document](Thesis-Full.pdf).
-```
-
-## Notes
-1. Replace `lift_distribution.png` and `structural_displacement.png` with your actual images in the `Images/` folder.
-2. Upload your repository to GitHub, and verify that the images render correctly in the Markdown preview.
