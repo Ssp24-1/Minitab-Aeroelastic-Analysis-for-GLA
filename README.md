@@ -1,4 +1,4 @@
-# Aeroelastic Study of Leading Edge Minitabs
+# Aeroelastic Study of Leading Edge Minitabs for Gust Load Alleviation
 
 This repository contains the results and summary of my master’s thesis on the aeroelastic behavior of flexible wings with leading-edge minitabs for gust load alleviation. Below is the structure of the repository and an example document referencing images.
 
